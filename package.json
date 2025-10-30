@@ -1,0 +1,27 @@
+on
+{
+  "name": "Galuxium v2",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.0.0",
+    "react": "^18.1.3",
+    "react-dom": "^18.1.3"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1",
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.16",
+    "framer-motion": "^11.1.0",
+    "lucide-react": "^0.326.0",
+    "class-variance-authority": "^1.0.0",
+    "clsx": "^2.1.2",
+    "shadcn/ui": "^1.4.0"
+  }
+}
